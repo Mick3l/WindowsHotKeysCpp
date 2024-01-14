@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(winAPI)
+project(WindowsHotKeysCpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
